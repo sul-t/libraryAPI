@@ -1,0 +1,8 @@
+fastapi[standard]==0.115.0
+uvicorn==0.31.0
+sqlalchemy==2.0.35
+pydantic_settings==2.5.2
+asyncpg==0.30.0
+alembic==1.13.3
+requests==2.32.3
+pytest==8.3.4
